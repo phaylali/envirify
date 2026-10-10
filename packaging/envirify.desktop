@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Envirify
+GenericName=Environment Variable Manager
+Comment=Arch GUI Environment Manager by Omniversify
+Exec=envirify
+Icon=envirify
+Terminal=false
+Type=Application
+Categories=Settings;System;Utility;
+Keywords=environment;variables;env;PATH;profile;shell;
+StartupWMClass=com.omniversify.envirify
